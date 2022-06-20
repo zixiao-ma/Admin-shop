@@ -1,4 +1,4 @@
-# 管理员商店
+# 电商后台管理系统
 
 开发过程中使用 Vue cil 脚手架进行开发，然后主要通过 elementUI 美化项目结构，使用github作为 Git 管理仓库，对应的 API 文档，采用 express 搭建的 API 服务，返回的数据是 JSON 格式的数据
 
